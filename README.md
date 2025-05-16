@@ -8,7 +8,7 @@
 To get started, clone this repository.
 
 ```
-git clone https://github.com/engsahaly/laravel_course_level_1_project.git
+git clone https://github.com/h35h7m/Sensive-Blog.git
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
